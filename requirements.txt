@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+requests
+pdf2image
+pytesseract
+pillow
+opencv-python-headless
+rapidfuzz
+numpy
